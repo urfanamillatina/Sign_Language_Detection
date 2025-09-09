@@ -6,3 +6,4 @@ runs
 sign_language_detection.ipynb
 local_host_webcam.ipynb
 hand_sign_gif.gif
+hand_sign_small.gif
