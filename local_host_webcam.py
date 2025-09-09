@@ -11,7 +11,7 @@ while True:
     if not ret:
         break
 
-    results = model.predict(frame, verbose=False)  # verbose=False for cleaner output
+    results = model.predict(frame, verbose=False) 
     annotated_frame = results[0].plot()
     cv2.imshow("YOLO Hand Sign Detection", annotated_frame)
 
