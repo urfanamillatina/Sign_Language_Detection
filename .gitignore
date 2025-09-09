@@ -1,0 +1,8 @@
+config.py
+model-sibi-1/test
+model-sibi-1/valid
+model-sibi-1/train
+runs
+sign_language_detection.ipynb
+local_host_webcam.ipynb
+hand_sign_gif.gif

@@ -1,0 +1,6 @@
+train: /Users/millatina/Documents/MU/Portfolio AI/Hand_Sign_Detection/model-sibi-1/train/images
+val: /Users/millatina/Documents/MU/Portfolio AI/Hand_Sign_Detection/model-sibi-1/valid/images
+test: /Users/millatina/Documents/MU/Portfolio AI/Hand_Sign_Detection/model-sibi-1/test/images
+
+nc: 26
+names: [A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z]
