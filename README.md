@@ -30,14 +30,14 @@ Continuously, the classes will be added, like numericals, common expressions, et
 - Google Colab for training and validation
 - Running the live test using VS Code
 
-### The dataset:
+### The Dataset:
 The dataset is retrieved from Roboflow [here](https://universe.roboflow.com/my-projects-7vrlf/sign-language-sibi-katux)
 
-### Model: 
+### The Model: 
 
 This model is utilizing YOLO version 5 Nano through ultralytics.
 
-### Results:
+### The Results:
 
 The performance metrics for training are excellent like shown in the plot below:
 <p align="center">
@@ -52,7 +52,7 @@ It shows that overtime, the precision, recall, Mean Average Precision and the Av
 
 Testing the model live using webcam on MacOS (localhost). Even though the training's performance is excellent, during the live testing, the accuracy and the confidence in detecting hands and signs become worse. The more distance the hands from the camera, the less accurate the detections are, especially in signing similar gestures like the letter A, M, N. The gif file above has better accuracy and confidence level since the hand is closer to the camera.
 
-### Next Action
+### Next Actions
 - To train with bigger model and more epochs.
 - Try other algorithms
 - To train more classes: like numericals (1-10) and common expressions.
