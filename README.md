@@ -10,10 +10,9 @@
 
 ### Key Takeaways:
 
-- Personally, learning a new language!
-- Contributing to accessability of communication between deaf & non-deaf people.
-- The training performance is excellent, but the live test using webcam shows accuracy and confidence level badly, especially the further away the hand from the camera.
-- Next action: to train with bigger model, adding more classes like numericals (1-10) and commmon expressions.
+- Personally, learning a new language! And contributing to accessability of communication between deaf & non-deaf people through Computer Vision.
+- As a preliminary model, the training performance is excellent, but the live test using webcam shows accuracy and confidence level badly, especially the further away the hand from the camera.
+- Next action: to train with bigger model; improve accuracy and confidence level on live test; and  adding more classes like numericals (1-10) and commmon expressions.
 
 
 ### Objectives:
@@ -54,5 +53,6 @@ Testing the model live using webcam on MacOS (localhost). Even though the traini
 
 ### Next Actions
 - To train with bigger model and more epochs.
+- To improve accuracy and confidence level on live test.
 - Try other algorithms
 - To train more classes: like numericals (1-10) and common expressions.
