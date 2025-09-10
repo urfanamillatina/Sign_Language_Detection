@@ -1,6 +1,21 @@
-# Sign Language Detection Model - Indonesian Language (SIBI - Sistem Isyarat Bahasa Indonesia)
+<p align="center">
+<h1 align="center">Sign Language Detection Model
 
-### On-Progress - A Computer Vision project to Detect Hand Sign for Sign Language
+Indonesian Language (SIBI - Sistem Isyarat Bahasa Indonesia)
+</h1>
+</p>
+
+<p align= "center">
+<img src="https://img.shields.io/badge/Status-On%20Progress-yellow" />
+<img src="https://img.shields.io/badge/YOLOv5n-blue?logo=yolo&logoColor=white"/>
+<img src= "https://img.shields.io/badge/Ultralytics-007ACC?logo=python&logoColor=white">
+<img src= "https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+</p>
+
+
+<p align="center">
+<h3 align="center">A Computer Vision project to Detect Hand Sign for Sign Language, specifically for Indonesian Sign Language (SIBI -Sistem Isyarat Bahasa Indonesia)</h3>
+</p>
 
 
 <p align="center">
@@ -19,7 +34,7 @@
 This computer vision project aims to detect sign language from hand gestures. Utilizing AI/ML to contribute to more accessible ways of communication between deaf and non-deaf people in Indonesia.
 
 
-### Prelimenary
+### Prelimnary
 This is a preliminary to test out workflows, integrations, dataset, dependencies and model.
 
 This preliminary model is trained on YOLOv5n, which has a smaller capacity, with fewer epochs (10) for faster training, and a smaller image size (320 x 320 pixels) for faster inference, which can result in lower accuracy. Currently, the training is limited to only alphabetic SIBI signs, which comprise 26 classes.
