@@ -72,7 +72,7 @@ Continuously, more classes will be added, like numericals and common expressions
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### The Dataset:
+## The Dataset:
 The dataset is retrieved from Roboflow universe [here](https://universe.roboflow.com/my-projects-7vrlf/sign-language-sibi-katux)
 
 ## The Model: 
